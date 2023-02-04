@@ -5,7 +5,6 @@ const App = () => {
   return (
     <div>
       <Home/>
-      <h1>Mi Componente App</h1>
     </div>
   )
 }
